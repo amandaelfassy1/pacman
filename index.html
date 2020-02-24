@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <title>Vanilla Pac-Man</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="pacman">
+    <div class="score">
+        <h3>Score :</h3>
+        <p id="score">0</p>
+    </div>
+        <div id ="parent" class="map" >
+            <img src="./img/pacman.gif" alt="Pacman">
+            <img src="./img/red-ghost.png" alt="Pacman">
+            <img src="./img/blue-ghost.png" alt="Pacman">
+            <img src="./img/pink-ghost.png" alt="Pacman">
+            <img src="./img/background.svg" alt="Labyrinthe">
+
+            <div id="formulaire" class="name" >
+                <form class="form">
+                    <div>
+                        <img src="./img/Pacman.png">
+                    </div>
+                    <label for="name">Enter your pseudo to play !</label>
+                        <input type="text" id="name" name="name">
+                        <input type="submit" value="Play !" onclick="cacherFormulaire()"/>
+                </form>
+            </div>
+        </div>
+
+        <script src="./main.js"></script>
+</div>
+</body>
+</html>
+

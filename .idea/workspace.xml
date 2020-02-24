@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e06079-c2b3-401f-8d83-2a9f038dda8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XJFOgIfp6mgCABKrmdOEex2E7R" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\jeuPacman\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e06079-c2b3-401f-8d83-2a9f038dda8b" name="Default Changelist" comment="" />
+      <created>1580756259957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580756259957</updated>
+      <workItem from="1580756261598" duration="1936000" />
+      <workItem from="1580812419743" duration="4452000" />
+      <workItem from="1580897836905" duration="4311000" />
+      <workItem from="1580906614445" duration="618000" />
+      <workItem from="1580988098497" duration="3427000" />
+      <workItem from="1581070777100" duration="3219000" />
+      <workItem from="1581185789072" duration="3855000" />
+      <workItem from="1581502915327" duration="2172000" />
+      <workItem from="1582457729552" duration="699000" />
+      <workItem from="1582548142870" duration="2243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
